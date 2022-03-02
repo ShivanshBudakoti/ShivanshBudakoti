@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivanshBudakoti
-- 👀 I’m interested in ... Web devlopment and CP
-- 🌱 I’m currently learning ... backend technologies
+- 👀 I’m interested in ... nothing
+- 🌱 I’m currently learning ... nothing
 - 💞️ I’m looking to collaborate on ... web apps based on MERN stack
 - 📫 How to reach me ... shivanshbudakoti03@gmail.com
 
