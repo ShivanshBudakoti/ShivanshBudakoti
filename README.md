@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivanshBudakoti
-- 👀 I’m interested in ... nothing
-- 🌱 I’m currently learning ... nothing
+- 👀 I’m interested in ... ReactJS, Competetive programming and Chess
+- 🌱 I’m currently learning ... ReactJS and Machine Learning
 - 💞️ I’m looking to collaborate on ... web apps based on MERN stack
 - 📫 How to reach me ... shivanshbudakoti03@gmail.com
 
